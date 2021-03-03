@@ -1,0 +1,28 @@
+header {
+    background-color: red;
+    text-align: center;
+    height: 125px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.card-header {
+    background-color: royalblue;
+}
+
+.card {
+    border-color: black;
+    border-width: 3px;
+    margin: 0;
+    padding: 0;
+    width: 260px;
+}
+
+.card-body {
+    background-color: rgb(238, 243, 252);
+    align-items: center;
+    justify-content: center;
+}

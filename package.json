@@ -1,0 +1,26 @@
+{
+  "name": "team-generator-hw",
+  "version": "1.0.0",
+  "description": "node-team-generator-hw",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tsuki13/Team-Generator.git"
+  },
+  "author": "Raquel Diaz",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "fontawesome": "^5.6.3",
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
