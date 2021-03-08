@@ -10,7 +10,7 @@
 ## Description
 
 Command-line application that uses Node.js to dynamically create an HTML document based on user's input.
-Project is designed to keep track of all team member's information(name, email, ID, and roles).
+Project is designed to keep track of all team member's information(name, email, ID, and roles) on a webpage.
 
 ## Installation Guidelines
 
@@ -23,6 +23,9 @@ Project is designed to keep track of all team member's information(name, email, 
 Demo of the command-line tests
 ![demo of tests](./assets/testdemo.gif)
 
+Demo of project functionality
+![demo](./assets/demotg.gif)
+
 
 ## Questions
-Contact me by email: Rachel7113@gmail.com# Team-Generator
+Contact me by email: Rachel7113@gmail.com
